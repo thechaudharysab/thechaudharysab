@@ -6,7 +6,7 @@ Hi there 👋 Below are some of the project that I've created or worked with. Fo
 - Sukhan (Android App) [https://play.google.com/store/apps/details?id=com.sukhanmobileapp](https://play.google.com/store/apps/details?id=com.sukhanmobileapp)
 - 40Day Goals (Android App) [https://play.google.com/store/apps/details?id=com.ibjects.fortydaygoals](https://play.google.com/store/apps/details?id=com.ibjects.fortydaygoals)
 - Showupia (iOS App) [https://apps.apple.com/dk/app/showupia/id1490657344](https://apps.apple.com/dk/app/showupia/id1490657344)
-- IntiutuveAI Simulator (Android App) [https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator](https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator)
+- IntuitiveAI Simulator (Android App) [https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator](https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator)
 
 - DoctorOnCall (up to v4.11)
   - Android App [https://play.google.com/store/apps/details?id=com.docmobile&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.docmobile&pcampaignid=web_share)
