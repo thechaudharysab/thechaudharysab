@@ -1,4 +1,4 @@
-Hi there 👋 Below are some of the project that I've created or worked with. For more information please visit my linkedin: [https://www.linkedin.com/in/chtalha/](https://www.linkedin.com/in/chtalha/)
+Hi there 👋 Below are some of the project that I've created or worked with. For more information please visit: [https://about.me/chtalha](https://about.me/chtalha)
 
 ### Mobile Apps
 - Stack Orders (Enterprise App): [https://medium.com/ibjects/empowering-sales-on-the-go-unveiling-the-sdlc-of-stack-orders-for-puteri-brand-a8c209d15a39](https://medium.com/ibjects/empowering-sales-on-the-go-unveiling-the-sdlc-of-stack-orders-for-puteri-brand-a8c209d15a39)
