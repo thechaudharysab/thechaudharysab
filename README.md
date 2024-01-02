@@ -8,7 +8,7 @@ Hi there 👋 Below are some of the project that I've created or worked with. Fo
 - Showupia (iOS App) [https://apps.apple.com/dk/app/showupia/id1490657344](https://apps.apple.com/dk/app/showupia/id1490657344)
 - IntuitiveAI Simulator (Android App) [https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator](https://play.google.com/store/apps/details?id=com.ibjects.intuitivesimulator)
 
-- DoctorOnCall (up to v4.11)
+- DoctorOnCall (Planning, first version, deploying up to v4.11)
   - Android App [https://play.google.com/store/apps/details?id=com.docmobile&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.docmobile&pcampaignid=web_share)
   - Huawei App Gallery [https://appgallery.huawei.com/#/app/C104485279](https://appgallery.huawei.com/#/app/C104485279)
   - iOS App [https://apps.apple.com/us/app/doctoroncall-online-pharmacy/id1549810871](https://apps.apple.com/us/app/doctoroncall-online-pharmacy/id1549810871)
