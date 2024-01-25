@@ -14,12 +14,13 @@ Hi there 👋 Below are some of the project that I've created or worked with. Fo
   - iOS App [https://apps.apple.com/us/app/doctoroncall-online-pharmacy/id1549810871](https://apps.apple.com/us/app/doctoroncall-online-pharmacy/id1549810871)
 
 ### Websites
-- Marvel AirCon Service (HTML/CSS/JS) [https://marvelaircon.com/](https://marvelaircon.com/)
+- Intuitive AI (HTML/JS/CSS) -  [https://intuitive-ai.web.app/](https://intuitive-ai.web.app/) IAI Data Analysis: [Google Colab Notebook](https://colab.research.google.com/drive/1rwPrzAS6J2lW0RVjqGaLpm4KaPwGGVdi?usp=sharing)
+- Marvel AirCon Service (HTML/CSS) [https://marvelaircon.com/](https://marvelaircon.com/)
 - Tracy Busse (Wordpress) [https://tracybusse.net/](https://tracybusse.net/)
 - AshTree Center (Wordpress) [https://ashtreecenter.com/](https://ashtreecenter.com/)
 - DaikiMedia (Wordpress) [https://daikimedia.com/](https://daikimedia.com/)
 - Decider (ReactJS) [https://decider.ibjects.com/](https://decider.ibjects.com/)
-- BepBop Utopia (HTML/CSS/JS) [https://bepbop.com/](https://bepbop.com/)
+- BepBop Utopia (HTML/CSS) [https://bepbop.com/](https://bepbop.com/)
 - Vendser (HTML/CSS) [https://vendser.com/]
 
 
