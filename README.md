@@ -23,6 +23,8 @@ Hi there 👋 Below are some of the project that I've created or worked with. Fo
 - BepBop Utopia (HTML/CSS) [https://bepbop.com/](https://bepbop.com/)
 - Vendser (HTML/CSS) [https://vendser.com/]
 
+### UI/UX
+- 4G Capital [https://dribbble.com/shots/23479265-Enterprise-System-Design-for-Loans-Service-in-Africa](https://dribbble.com/shots/23479265-Enterprise-System-Design-for-Loans-Service-in-Africa)
 
 
 <!--
