@@ -18,7 +18,6 @@ Hi there 👋 Below are some of the project that I've created or worked with. Fo
 - Marvel AirCon Service (HTML/CSS) [https://marvelaircon.com/](https://marvelaircon.com/)
 - Tracy Busse (Wordpress) [https://tracybusse.net/](https://tracybusse.net/)
 - AshTree Center (Wordpress) [https://ashtreecenter.com/](https://ashtreecenter.com/)
-- DaikiMedia (Wordpress) [https://daikimedia.com/](https://daikimedia.com/)
 - Decider (ReactJS) [https://decider.ibjects.com/](https://decider.ibjects.com/)
 - BepBop Utopia (HTML/CSS) [https://bepbop.com/](https://bepbop.com/)
 - Vendser (HTML/CSS) [https://vendser.com/]
